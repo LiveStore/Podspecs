@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.summary      =  'Replica of the semi-modal view with pushed-back stacked animation found in the beautiful Park Guides by National Geographic app.'
   s.homepage     =  'https://github.com/kentnguyen/KNSemiModalViewController'
   s.author       =  { 'Kent Nguyen' => 'nguyen.dmz@gmail.com' }
-  s.source       =  { :git => 'https://github.com/kentnguyen/KNSemiModalViewController.git', :tag => '0.4' }
+  s.source       =  { :git => 'https://github.com/LiveStore/KNSemiModalViewController.git', :tag => '0.4' }
   s.platform     =  :ios
   s.source_files =  'Source'
 
